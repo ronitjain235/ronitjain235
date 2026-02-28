@@ -41,6 +41,7 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ronitjain235/ronitjain235/output/snake.svg" alt="Snake animation" />
+<img src="https://github-readme-stats.vercel.app/api?username=ronitjain235&show_icons=true&theme=tokyonight" />
 
 
 ###

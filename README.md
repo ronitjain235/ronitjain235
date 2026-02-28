@@ -39,7 +39,7 @@
   </a>
 
   <!-- Gmail -->
-  <a href="mailto:jainronit235@gmail.com?subject=Hello Ronit&body=I saw your GitHub profile and wanted to connect!">
+  <a href="mailto:jainronit235@gmail.com?subject=Hello bro &body=I saw your GitHub profile and wanted to connect!">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
 </a>
 

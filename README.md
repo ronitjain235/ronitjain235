@@ -43,9 +43,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="[https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg](https://github.com/ronitjain235/ronitjain235/blob/main/.github/workflows/snake.yml)">
-  <source media="(prefers-color-scheme: light)" srcset="[https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg](https://github.com/ronitjain235/ronitjain235/blob/main/.github/workflows/snake.yml)">
-  <img alt="github contribution grid snake animation" src="[https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg](https://github.com/ronitjain235/ronitjain235/blob/main/.github/workflows/snake.yml)">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ronitjain235/ronitjain235/blob/main/.github/workflows/snake.yml" >
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ronitjain235/ronitjain235/blob/main/.github/workflows/snake.yml">
+  <img alt="github contribution grid snake animation" src="https://github.com/ronitjain235/ronitjain235/blob/main/.github/workflows/snake.yml">
 </picture>
 
 ###

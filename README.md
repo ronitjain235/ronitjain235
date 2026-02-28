@@ -1,5 +1,3 @@
-
-  [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://ronitjain235.io)
 <h4 align="left">👋 Hi, I'm Ronit Jain<br><br>💻 Passionate Developer | 🚀 Tech Enthusiast<br><br>I’m a coding enthusiast who enjoys building real-world projects and exploring new technologies. I love transforming ideas into practical solutions through clean, efficient, and scalable code. Constant learning and problem-solving keep me motivated in the tech world.<br><br>🔹 Focused on developing impactful and innovative projects<br>🔹 Interested in AI, Web Development, and Software Engineering<br>🔹 Always improving coding skills and exploring new tools</h4>
 
 ###
@@ -41,12 +39,28 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/ronitjain235/ronitjain235/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/ronitjain235/ronitjain235/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=ronitjain235.ronitjain235&"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/ronitjain235/ronitjain235/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/ronitjain235/ronitjain235/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ronitjain235/ronitjain235/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ronitjain235/ronitjain235/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ronitjain235/ronitjain235/output/pacman-contribution-graph.svg">
+</picture>
 
 ###

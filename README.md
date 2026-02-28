@@ -42,11 +42,7 @@
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ronitjain235/ronitjain235/blob/main/.github/workflows/snake.yml" >
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ronitjain235/ronitjain235/blob/main/.github/workflows/snake.yml" >
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif">
-</picture>
+
 
 ###
 
